@@ -1,0 +1,6 @@
+Merlin|merlin@gmail.com|00100, Nairobi, Kenya|
+sam|8|00520|
+merlin|0769902205|m@gmail.com|
+John Doe|doe@gmail.com|m234 colchester|
+James|james@gmail.com|m456 Cardif|1
+John|john@gmail.com|e564 b|
